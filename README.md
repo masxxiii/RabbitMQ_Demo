@@ -1,6 +1,6 @@
 ## Getting started:
 
-To get started first go to the **server directory** and then **consumer directory** and run the following command in each to install the required modules from npm:
+To get started run the following command in the **server directory** and in **consumer directory** each to install the required modules from npm:
 
 ```shell
 npm install
